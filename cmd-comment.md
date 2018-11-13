@@ -1,7 +1,7 @@
 # NAME
 ## CODE
 ```javascript
-\:\:[^\n]*
+/\:\:[^\n]*/
 ```
 ### [...] = match
 ```
